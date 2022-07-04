@@ -80,3 +80,8 @@ footer p {
     text-align: center;
     color: gray;
 }
+
+#image2 {
+    height: 100%;
+    width: 100%;
+}
