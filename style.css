@@ -1,0 +1,82 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.color-change {
+    color: orange;
+}
+
+.flex-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-display {
+    width: 50%;
+}
+
+.half-display img {
+    width: 100%;
+}
+
+div {
+    padding: 3%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 7px 15px;
+    background-image: linear-gradient(orangered, tomato);
+    color: aliceblue;
+    font-weight: 500;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.add-color {
+    color: red;
+}
+
+.saddow-disply {
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 30px gray;
+}
+
+.experience-class {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#first-id {
+    border-left: 7px solid tomato;
+}
+
+#second-id {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+    color: gray;
+}
